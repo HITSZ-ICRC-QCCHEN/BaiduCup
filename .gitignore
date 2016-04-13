@@ -2,5 +2,7 @@
 !.gitignore
 !.classpath
 !.project
+*.iml
 bin/
+data/
 lib/
